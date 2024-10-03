@@ -8,7 +8,7 @@ const Login = () => {
 
   return (
     <div className={style.loginContainer}>
-      <h1>Google Auth</h1>
+      <h1>Google Auth Example</h1>
       <div className={style.loginBox}>
         <h2>Login</h2>
 
